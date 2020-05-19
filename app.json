@@ -1,0 +1,17 @@
+{
+  "name": "NavDemo",
+  "displayName": "NavDemo",
+  "expo": {
+    "name": "NavDemo",
+    "slug": "NavDemo",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
